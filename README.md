@@ -1,8 +1,2 @@
-
---------------------------------------------------------------
-
-Projet: Création d'un site web 
-Description : Projet fictif - OpenClassrooms activité partie2
-
---------------------------------------------------------------
-
+# Projet : Création d'un site web
+Description : Activité partie 2 du cours OpenClassrooms -  
